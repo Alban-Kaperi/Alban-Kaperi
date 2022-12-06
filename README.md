@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @Alban-Kaperi
+- 👀 I’m interested in Full Stack Developement
+- 🌱 I’m currently learning NextJS
